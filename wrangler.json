@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "bt-redirect",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "f1c27b51-c6ae-4cf0-98a0-651b04b15848",
+			"database_name": "redirect-app"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
